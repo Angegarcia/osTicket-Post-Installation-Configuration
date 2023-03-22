@@ -272,7 +272,5 @@ Step 8. Configure Help Topics
 <br />
 <br />
 
+Congratulations! You have compeleted the configuration of the open-source help desk ticketing system osTicket.
 
-For the the next tutorial in this series go <a href=https://github.com/presicion25/osTicket-Ticket-Lifecycle-Examples>here</a></h2>
-<br />
-Thank Your for reading!
